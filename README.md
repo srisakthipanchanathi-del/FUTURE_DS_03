@@ -174,7 +174,7 @@ marketing-funnel-analysis/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
 
@@ -202,7 +202,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Dashboard URL
+## Dashboard URL
 
 ```
 https://srisakthipanchanathi-del-future-ds-03-app-qjtoqj.streamlit.app/
