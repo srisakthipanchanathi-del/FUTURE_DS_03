@@ -1,10 +1,10 @@
-# 📈 Marketing Funnel & Conversion Performance Analysis
+# Marketing Funnel & Conversion Performance Analysis
 
 An end-to-end Data Analytics project that analyzes marketing campaign performance and customer conversion using Python, Streamlit, and Plotly. This project helps businesses understand customer behavior, identify conversion bottlenecks, and optimize marketing strategies through interactive visualizations and actionable insights.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Marketing campaigns generate thousands of customer interactions, but not every customer converts. Understanding where customers convert, which marketing channels perform best, and which customer segments respond positively is essential for improving business growth.
 
@@ -19,7 +19,7 @@ This project analyzes a real-world marketing dataset to:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Businesses often struggle to answer questions such as:
 
@@ -33,7 +33,7 @@ This project provides data-driven answers to these questions.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Bank Marketing Dataset
 
@@ -61,7 +61,7 @@ Target Variable:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -74,7 +74,7 @@ Target Variable:
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ### 1. Data Collection
 
@@ -122,7 +122,7 @@ Built a Streamlit dashboard including:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 - 📊 Interactive KPI Cards
 - 📉 Marketing Funnel Visualization
@@ -135,7 +135,7 @@ Built a Streamlit dashboard including:
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Calculated the overall customer conversion rate.
 - Identified high-performing customer segments.
@@ -145,7 +145,7 @@ Built a Streamlit dashboard including:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Focus campaigns on customer segments with the highest conversion rates.
 - Prioritize high-performing communication channels.
@@ -155,7 +155,7 @@ Built a Streamlit dashboard including:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 marketing-funnel-analysis/
@@ -202,19 +202,15 @@ streamlit run app.py
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add screenshots of your Streamlit dashboard here.
-
-Example:
+## 📸 Dashboard URL
 
 ```
-assets/dashboard.png
+https://srisakthipanchanathi-del-future-ds-03-app-qjtoqj.streamlit.app/
 ```
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -229,7 +225,7 @@ assets/dashboard.png
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Customer Segmentation using Machine Learning
 - Conversion Prediction Model
@@ -240,11 +236,11 @@ assets/dashboard.png
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sri Sakthi Panchanathi**
 
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
+##  If you found this project useful, consider giving it a star on GitHub!
